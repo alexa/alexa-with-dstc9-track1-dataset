@@ -74,8 +74,8 @@ Each submission will be evaluated in the following task-specific automated metri
 
 To consider the dependencies between the tasks, the scores for knowledge selection and knowledge-grounded response generation are weighted by knowledge-seeking turn detection performances. Please find more details from [scores.py](scripts/scores.py).
 
-The final ranking will be based on **human evaluation results** on the generated responses only, which will address the following aspects: grammatical/semantical correctness, naturalness, appropriateness, informativeness and relevance to given knowledge.
-
+The final ranking will be based on **human evaluation results** only for selected systems according to automated evaluation scores.
+It will address the following aspects: grammatical/semantical correctness, naturalness, appropriateness, informativeness and relevance to given knowledge.
 
 ## Data
 
