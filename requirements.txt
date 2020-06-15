@@ -1,0 +1,9 @@
+torch==1.4.0
+torchvision==0.5.0
+transformers==2.7.0
+tensorboardX
+scikit-learn
+scipy
+rouge
+nltk
+jsonschema
