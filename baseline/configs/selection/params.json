@@ -1,0 +1,30 @@
+{
+  "dataset_args": {
+    "n_candidates": 2,
+    "eval_all_snippets": false,
+    "negative_sample_method": "oracle",
+
+    "history_max_utterances": 1000000,
+    "history_max_tokens": 128,
+    "knowledge_max_tokens": 128
+  },
+
+  "task": "selection",
+  "model_name_or_path": "gpt2",
+
+  "per_gpu_train_batch_size": 2,
+  "per_gpu_eval_batch_size": 1,
+  "gradient_accumulation_steps": 8,
+  "max_candidates_per_forward_eval": 16,
+  
+  "learning_rate": 6.25e-5,
+  "adam_epsilon": 1e-8,
+  "max_grad_norm": 1.0,
+
+  "num_train_epochs": 10,
+  "warmup_steps": 0,
+
+  "fp16": "",
+
+  "seed": 42
+}
