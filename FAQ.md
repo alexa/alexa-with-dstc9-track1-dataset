@@ -1,7 +1,5 @@
 # DSTC9 Track 1 - Frequently Asked Questions
 
----
-
 ## Participation
 
 Q: Do I need to complete any sign-up or registration process to participate this challenge track?
@@ -14,7 +12,6 @@ Q: Should I work on all there subtasks or can I participate in only one or two o
 
 A: You will be asked to submit the full outputs across all three subtasks in the pipeline. If you’re interested in just one or two subtasks, we recommend to use the baseline model for the other tasks, so that you could make valid submissions.
 
----
 
 ## Data/Tasks
 
@@ -54,6 +51,7 @@ Q: What is the final criterion of team ranking? Will we have rankings for each s
 A: The official ranking will be based on *human evaluation* for the *end-to-end* performances. The human evaluation will be done only for selected systems according to automated evaluation scores.
 
 ---
+
 Q: Will all the submissions be included in the final ranking by human evaluation?
 
 A: No, the human evaluation will be done only for selected systems according to automated evaluation scores. The detailed selection criteria will be announced later.
