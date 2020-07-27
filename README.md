@@ -17,6 +17,7 @@ Track participants will develop dialogue systems to understand relevant domain k
 * [Challenge Registration](https://forms.gle/jdT79eBeySHVoa1QA)
 * [Data Formats](data/README.md)
 * [Baseline Details](baseline/README.md)
+* [Frequently Asked Questions](FAQ.md)
 
 If you want to publish experimental results with this dataset or use the baseline models, please cite the following article:
 ```
