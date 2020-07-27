@@ -128,7 +128,11 @@ class BaseDataset(torch.utils.data.Dataset):
                 knowledge_key = "{}__{}__{}".format(knowledge["domain"], knowledge["entity_id"], knowledge["doc_id"])
                 # find snippets with same entity as candidates
                 prefix = "{}__{}".format(knowledge["domain"], knowledge["entity_id"])
-                knowledge_candidates = [cand for cand in self.snippets.keys() if cand.startswith(prefix)]
+                knowledge_candidates = [
+                    cand
+                    for cand in self.snippets.keys() 
+                    if "__".join(cand.split("__")[:-1]) == prefix
+                ]
                 if self.split_type == "train" and self.args.negative_sample_method == "oracle":
                     # if there's not enough candidates during training, we just skip this example
                     if len(knowledge_candidates) < self.args.n_candidates:
