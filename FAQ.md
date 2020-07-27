@@ -8,7 +8,7 @@ A: We strongly recommend you to complete the challenge registration at https://f
 
 ---
 
-Q: Should I work on all there subtasks or can I participate in only one or two of them?
+Q: Should I work on all three subtasks or can I participate in only one or two of them?
 
 A: You will be asked to submit the full outputs across all three subtasks in the pipeline. If you’re interested in just one or two subtasks, we recommend to use the baseline model for the other tasks, so that you could make valid submissions.
 
