@@ -2,14 +2,15 @@
 
 # DSTC9 Track 1 - Beyond Domain APIs: Task-oriented Conversational Modeling with Unstructured Knowledge Access
 
----
-
 This repository contains the data, scripts and baseline codes for [DSTC9](https://dstc9.dstc.community/) Track 1.
 
 This challenge track aims to support frictionless task-oriented conversations, where the dialogue flow does not break when users have requests that are out of the scope of APIs/DB but potentially are already available in external knowledge sources.
 Track participants will develop dialogue systems to understand relevant domain knowledge, and generate system responses with the relevant selected knowledge.
 
 **Organizers:** Seokhwan Kim, Mihail Eric, Behnam Hedayatnia, Karthik Gopalakrishnan, Yang Liu, Chao-Wei Huang, Dilek Hakkani-tur
+
+## News
+* **August 18, 2020** - Patched data released with labeling error fixes. **Please update your local branch.**
 
 ## Important Links
 * [Task Description Paper](https://arxiv.org/abs/2006.03533)
