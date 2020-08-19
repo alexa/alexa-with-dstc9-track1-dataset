@@ -12,9 +12,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -73,9 +70,6 @@
       }
     ],
     "response": "There is no outdoor seating available here. Does this work out for you?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -351,9 +345,6 @@
       }
     ],
     "response": "Sorry, Amex is not an accepted form of payment. Anything else I can do for you?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -879,9 +870,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -1090,9 +1078,6 @@
       }
     ],
     "response": "The train allows wheelchairs as long the weight is less than 300 kilograms. Do you require assistance with anything else?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -1692,9 +1677,6 @@
       }
     ],
     "response": "WiFi on this train is free to use. Is that all for today?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -2358,9 +2340,6 @@
       }
     ],
     "response": "You may cancel up to 24 hours in advance, after that, it is a 12 GBP charge. Is there anything else I can do for you?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -4220,9 +4199,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -4973,12 +4949,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -5088,9 +5058,6 @@
       }
     ],
     "response": "Up to 24 hours notice is free cancellation. After the cancellation time frame, we charge 10 GBP. Is there anything else I can do for you?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -5649,12 +5616,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -6161,9 +6122,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -6372,9 +6330,6 @@
       }
     ],
     "response": "Yes, you may cancel up to 24 hours for free, 10 gbp after this time frame. Anything else I can do for you?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -6896,9 +6851,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -7154,9 +7106,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -7323,9 +7272,6 @@
       }
     ],
     "response": "Yes, the taxi takes Mastercard as payment. Do you need any additional assistance?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -7558,9 +7504,6 @@
       }
     ],
     "response": "No, the Lensfield Hotel does not allow pets. Would you like to go ahead and book a room?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -7841,9 +7784,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -7952,9 +7892,6 @@
       }
     ],
     "response": "They do not have a BYOB situation. Shall I proceed with booking?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -8317,9 +8254,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -8411,9 +8345,6 @@
       }
     ],
     "response": "Yes, free Wifi is available at The River Bar Steakhouse and Grill. Is there anything else you needed to find out?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -8635,9 +8566,6 @@
       }
     ],
     "response": "It must be smaller than 70x120 cm and lighter than 300 kilograms Would you like me to book the previously mentioned trip?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -8972,9 +8900,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -9078,9 +9003,6 @@
       }
     ],
     "response": "Mobility scooter can be brought onto the train if it's smaller than 70x120cm and lighter than 300 kilograms. Would you like more information on available restuarants?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -9264,9 +9186,6 @@
       }
     ],
     "response": "No, they do not allow BYOB. Did you need help with anything else?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -12365,12 +12284,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -12495,9 +12408,6 @@
       }
     ],
     "response": "Yes, you can get concierge service at the hotel. Is there anything else I can help you with?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -12729,9 +12639,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -12932,9 +12839,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -12967,9 +12871,6 @@
       }
     ],
     "response": "Folding bikes are allowed on the train. Is there anything else I can help with?"
-  },
-  {
-    "target": false
   },
   {
     "target": true,
@@ -13667,12 +13568,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -13927,9 +13822,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -14110,9 +14002,6 @@
       }
     ],
     "response": "Yes, you can park your car for free at the hotel. Anything else I can do for you?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -14527,9 +14416,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -14624,9 +14510,6 @@
       }
     ],
     "response": "Yes, you can pay with VISA card. Do you need anything else?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -14842,9 +14725,6 @@
       }
     ],
     "response": "A 10 GBP cancellation charge applies after the grace period (up to 24 hrs in advance). Does that sound like it will work for you?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -15250,9 +15130,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -15375,9 +15252,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -15450,9 +15324,6 @@
       }
     ],
     "response": "There is a luggage storage service there. Can I still book it for you?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -16646,9 +16517,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -17223,9 +17091,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -17320,9 +17185,6 @@
       }
     ],
     "response": "You are able to collect the ticket from any train station. Will you be needing anythig else?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -18411,9 +18273,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -18845,9 +18704,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -18857,9 +18713,6 @@
       }
     ],
     "response": "You may use your season ticket for free on this train. Pick up physical ticket at your station. What else can I do for you?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -19011,9 +18864,6 @@
     "response": "You can bring two pets on a short lead with you on the train. Do you have any other questions about the train?"
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -19086,9 +18936,6 @@
       }
     ],
     "response": "There's wheelchair accessibility on the train, as long as it's smaller 70x120cm and lighter than 300 kg. Anything else I can do for you?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -20331,9 +20178,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -20666,12 +20510,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -20916,9 +20754,6 @@
       }
     ],
     "response": "No, smoking is not allowed on the train. Can I help with something else?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -22448,12 +22283,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -22463,9 +22292,6 @@
       }
     ],
     "response": "No, the hotel doesn't offer concierge serivice. Does it work for you?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -22823,9 +22649,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -22903,9 +22726,6 @@
       }
     ],
     "response": "Yes, you can access it by connecting to GreatNorthern_WiFi. Do you have any other questions?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -23134,9 +22954,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -23169,9 +22986,6 @@
       }
     ],
     "response": "Yes, an email will be sent to you with the confirmation. Is there anything else I can help you with?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -23448,9 +23262,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -23572,9 +23383,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -23610,12 +23418,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -23625,9 +23427,6 @@
       }
     ],
     "response": "No, there is no age restriction to check in here. What else do you wish to know?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -24018,12 +23817,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -24185,9 +23978,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -24297,9 +24087,6 @@
       }
     ],
     "response": "You are not allowed to bring outside drinks to India House. Are there any other questions I may answer for you or would you like to reserve a table?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -24511,9 +24298,6 @@
       }
     ],
     "response": "Halal foods isn't served at The Missing Sock. Would you like me to book at that restaurant?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -24897,9 +24681,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -25200,15 +24981,6 @@
       }
     ],
     "response": "Yes, credit card is primarily accepted for the ride. Is there anything else I can assist you with?"
-  },
-  {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -26890,9 +26662,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -27150,9 +26919,6 @@
       }
     ],
     "response": "Cancellations available 24 hours in advance. After that only minor changes can be made. Do you have any other questions?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -28644,9 +28410,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -28747,9 +28510,6 @@
       }
     ],
     "response": "Under 5, the kids are free. From 5 to 16 years old, they get a 50% discount. Would you like help with anything else?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -29060,9 +28820,6 @@
       }
     ],
     "response": "Unfortunately, Midsummer House Restaurant does not allow BYOB. Can I help you with anything else?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -29786,12 +29543,6 @@
       }
     ],
     "response": "At Alexander Bed and Breakfast, check out is at 10:30. Do you still want to book there?"
-  },
-  {
-    "target": false
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -30658,9 +30409,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -31206,9 +30954,6 @@
       }
     ],
     "response": "You should be able to fit your pet into a basket of 85x60x60cm. Is there anything else you need assistance with?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -32085,9 +31830,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -32268,9 +32010,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -32408,9 +32147,6 @@
       }
     ],
     "response": "Kids up to 5 years old are free. From 5 to 16 years old they get a 50% discount. May I assist you with anything else?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -32949,9 +32685,6 @@
       }
     ],
     "response": "No, you cannot purchase more wifi. Anything else I can do for you?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -34044,9 +33777,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -34205,9 +33935,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -34291,12 +34018,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -34349,9 +34070,6 @@
       }
     ],
     "response": "People are not able to bring pets to the Acorn Guest House. Are you in need of transportation?"
-  },
-  {
-    "target": false
   },
   {
     "target": true,
@@ -34782,9 +34500,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -34814,9 +34529,6 @@
       }
     ],
     "response": "Yea bringing children is perfectly fine Would you like me to book a room for you today?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -35291,9 +35003,6 @@
       }
     ],
     "response": "You can get your ticket out of the ticket machines at any of the train stations. Do you need anything else?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -35818,9 +35527,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -35935,12 +35641,6 @@
       }
     ],
     "response": "Yes, you may cancel up to 24 hours for free, 10 gbp after this time frame. Anything else I can do for you?"
-  },
-  {
-    "target": false
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -36355,9 +36055,6 @@
       }
     ],
     "response": "Yes, there are halal options to choose from. Would you like to make a reservation at this restaurant?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -36962,9 +36659,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -37504,9 +37198,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -37574,9 +37265,6 @@
       }
     ],
     "response": "Highchairs are available at Trafvellers Rest. Is there anything else I can help with today?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -37800,9 +37488,6 @@
       }
     ],
     "response": "Yes, they have them. Would you like to make a reservation now?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -39036,9 +38721,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -39338,12 +39020,6 @@
       }
     ],
     "response": "The booking confirmations will be sent via text message. Any other questions for me?"
-  },
-  {
-    "target": false
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -41296,9 +40972,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -41404,9 +41077,6 @@
       }
     ],
     "response": "Yes, you will receive a text message with booking confirmation. Does this answer your question?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -41543,9 +41213,6 @@
       }
     ],
     "response": "The lucky star does not have Wi-Fi at this time. Is there anything else you will be needing?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -41939,9 +41606,6 @@
       }
     ],
     "response": "Basic WiFi services are offered on this train. Does that sound good?"
-  },
-  {
-    "target": false
   },
   {
     "target": true,
@@ -43427,9 +43091,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -43531,9 +43192,6 @@
       }
     ],
     "response": "Live entertainment is not offered at The Missing Sock. Is there anything else I can do for you today?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -44570,9 +44228,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -44941,12 +44596,6 @@
       }
     ],
     "response": "Yes there is free WiFi offered there Do you wanna book anything?"
-  },
-  {
-    "target": false
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -45396,12 +45045,6 @@
       }
     ],
     "response": "The trains are disability accessible and provide assisted travel service. Do you require assistance with anything else?"
-  },
-  {
-    "target": false
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -46262,12 +45905,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -46277,9 +45914,6 @@
       }
     ],
     "response": "Halal options are not offered at Graffiti. Do you have any other specific service requests?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -46328,9 +45962,6 @@
       }
     ],
     "response": "The restaurant does not have disability access. Do you require assistance with anything else?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -46609,9 +46240,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -46621,9 +46249,6 @@
       }
     ],
     "response": "The restaurant does not have wheelchair access for those with disability. Anything else I can do for you?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -46756,18 +46381,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -46829,15 +46442,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -46847,9 +46451,6 @@
       }
     ],
     "response": "Yes, your Visa can be used to pay your at Bedouin. Are there any other questions I may answer for you?"
-  },
-  {
-    "target": false
   },
   {
     "target": true,
@@ -46903,9 +46504,6 @@
       }
     ],
     "response": "This cafe does offer take out for guests. Will this be ok?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -47008,9 +46606,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -47020,9 +46615,6 @@
       }
     ],
     "response": "Parking will be available off road. Do you need me to book a roon?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -47109,9 +46701,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -47135,9 +46724,6 @@
       }
     ],
     "response": "You are allowed to bring kids. Should I make your reservation?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -47238,12 +46824,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -47253,15 +46833,6 @@
       }
     ],
     "response": "The Acorn Guest house does not have a lift. Will you be needing anything else?"
-  },
-  {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -47458,9 +47029,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -47470,9 +47038,6 @@
       }
     ],
     "response": "I'm sorry, this place does not allow smoking anywhere. Is there anything else I can assist you with?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -47530,9 +47095,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -47553,9 +47115,6 @@
       }
     ],
     "response": "the check in time is 11 am Would you like to continue?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -47614,9 +47173,6 @@
       }
     ],
     "response": "No, there is no fee for parking. Do you want me to book that for you ?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -47739,9 +47295,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -47779,15 +47332,6 @@
       }
     ],
     "response": "The hotel does have a lift inside. May I assist with something else?"
-  },
-  {
-    "target": false
-  },
-  {
-    "target": false
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -47880,9 +47424,6 @@
       }
     ],
     "response": "The checkout time for this location is at 10:30. Do you need any more assistance?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -48332,9 +47873,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -48344,9 +47882,6 @@
       }
     ],
     "response": "No, they don't offer halal options. Can I do anything else for you today?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -48982,9 +48517,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -49499,9 +49031,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -49725,9 +49254,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -49810,9 +49336,6 @@
     "target": false
   },
   {
-    "target": false
-  },
-  {
     "target": true,
     "knowledge": [
       {
@@ -49822,9 +49345,6 @@
       }
     ],
     "response": "No they don't have gluten free options. Does this help answer your question?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -49957,9 +49477,6 @@
       }
     ],
     "response": "Free wifi is an available option here. Do you have any additional questions?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
@@ -50360,9 +49877,6 @@
       }
     ],
     "response": "No, gluten-free foods are not available. Would you like help with anything else?"
-  },
-  {
-    "target": false
   },
   {
     "target": false
