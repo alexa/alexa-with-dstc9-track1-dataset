@@ -10,6 +10,7 @@ Track participants will develop dialogue systems to understand relevant domain k
 **Organizers:** Seokhwan Kim, Mihail Eric, Behnam Hedayatnia, Karthik Gopalakrishnan, Yang Liu, Chao-Wei Huang, Dilek Hakkani-tur
 
 ## News
+* **September 21, 2020** - The evaluation data is released. Please find the details from [data_eval/](data_eval/README.md).
 * **August 18, 2020** - Patched data released with labeling error fixes. **Please update your local branch.**
 
 ## Important Links

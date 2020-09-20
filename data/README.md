@@ -25,9 +25,6 @@ We are releasing the data divided into the following three subsets:
 * Validation set:
   * [logs.json](val/logs.json): validation instances
   * [labels.json](val/labels.json): ground-truths for training instances
-* Test set
-  * logs.json: test instances (to be released later)
-  * labels.json: ground-truths for test instances (to be released later)
 
 The ground-truth labels for Knowledge Selection task refer to the knowledge snippets in [knowledge.json](knowledge.json).
 
