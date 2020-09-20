@@ -17,7 +17,7 @@ If you want to publish experimental results with this dataset or use the baselin
 
 ## Data
 
-We are releasing the data divided into the following three subsets:
+We are releasing the data divided into the following two subsets:
 
 * Training set
   * [logs.json](train/logs.json): training instances
