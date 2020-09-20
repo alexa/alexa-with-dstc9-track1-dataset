@@ -1,6 +1,7 @@
 # DSTC9 Track 1 Dataset
 
-This directory contains the official dataset for [DSTC9 Track 1](../README.md).
+This directory contains the official training/validation datasets for [DSTC9 Track 1](../README.md).
+The evaluation dataset details can be found from [data_eval/](../data_eval/README.md).
 
 If you want to publish experimental results with this dataset or use the baseline models, please cite the following article:
 ```
