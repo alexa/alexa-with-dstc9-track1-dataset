@@ -11,7 +11,7 @@ DSTC9 Track 1 evaluation data includes the following three subsets:
 
 We are releasing the following data and resources:
 * [logs.json](test/logs.json): the test instances listed in a random order with no identifier of what subset each instance belongs to.
-* [knowledge.json](knowledge.json): the knowledge candidates for all three subsets including 21,178 snippets for five domains and 1,191 entities in total, which is a super set of the [knowledge.json](../data/knowledge.json) for the training/validation set.
+* [knowledge.json](knowledge.json): the knowledge candidates for all three subsets including 12,039 snippets for five domains and 668 entities in total, which is a super set of the [knowledge.json](../data/knowledge.json) for the training/validation set.
 * [db.json](db.json): the domain DB entries for the Subset #2 and #3.
 
 All the json formats are the same as the [training/validation resources](../data/README.md#json-data-formats).
