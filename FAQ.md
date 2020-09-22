@@ -46,19 +46,44 @@ Every knowledge-seeking turn will have only a single relevant knowledge snippet.
 
 ## Evaluations
 
+Q: Will I be allowed to manually annotate or preprocess the evaluation data/knowledge?
+
+A: No, any manual task involved in processing the evaluation resources will be considered as a violation of the challenge policy. Please **DO NOT** touch the files in data_eval/ during the evaluation phase.
+
+---
+
+Q: Will I be allowed to manually examine my system outputs on the evaluation data to select the best model/configuration?
+
+A: No, any manual examination on the evaluation data will be also considered as a violation of the challenge policy. Please freeze your models/systems only with the training/validation datasets and just submit the system outputs on the **unseen** evalution data.
+
+---
+
+Q: Can I fine-tune or re-train my models on the unlabeled evaluation data in an unsupervised way?
+
+A: No, you're not allowed to fine-tune or re-train your systems based on any evaluation resources. Please freeze your models/systems only with the training/validation datasets and just submit the system outputs on the **unseen** evalution data.
+
+---
+
 Q: What is the final criterion of team ranking? Will we have rankings for each subtask or only one ranking as a final for all subtasks?
 
-A: The official ranking will be based on *human evaluation* for the *end-to-end* performances. The human evaluation will be done only for selected systems according to automated evaluation scores.
+A: The official ranking will be based on **human evaluation** for the **end-to-end** performances. The human evaluation will be done only for selected systems according to automated evaluation scores.
 
 ---
 
 Q: Will all the submissions be included in the final ranking by human evaluation?
 
-A: No, the human evaluation will be done only for selected systems according to automated evaluation scores. The detailed selection criteria will be announced later.
+A: No, the human evaluation will be done only for selected systems according to automated evaluation scores. The detailed selection criteria will be announced later with the automated evaluation results.
 
 ---
 
-Q: Why does scores.py calculate the precision, recall, and F1 for knowledge selection/response generation scores?
+Q: Will the automated evaluation results be released also for the submissions which are not selected for the final ranking?
 
-A: The scores.py calculates the end-to-end scores across all three subtasks in the pipeline, which differs from the component-level evaluations in the baseline training. The knowledge selection and the response generation scores are weighted by the knowledge seeking turn detection performances following the precision, recall, and f-measure concepts instead of just taking the average scores.
+A: Yes, we will release the automated evaluation results for every valid submission.
 
+---
+
+Q: How will the dependencies between the subtasks be considered in the end-to-end evaluation?
+
+A: The scores.py calculates the end-to-end scores across all three subtasks in the pipeline, which differs from the component-level evaluations in the baseline training. The knowledge selection and the response generation scores are weighted by the knowledge seeking turn detection performances following the precision, recall, and f-measure concepts instead of just taking the average scores. The human evaluation scores will be calculated in the same way.
+
+---
