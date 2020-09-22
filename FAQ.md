@@ -54,13 +54,13 @@ A: No, any manual task involved in processing the evaluation resources will be c
 
 Q: Will I be allowed to manually examine my system outputs on the evaluation data to select the best model/configuration?
 
-A: No, any manual examination on the evaluation data will be also considered as a violation of the challenge policy. Please freeze your models/systems only with the training/validation datasets and just submit the system outputs on the **unseen** evalution data.
+A: No, any manual examination on the evaluation data will be also considered as a violation of the challenge policy. Please freeze your models/systems only with the training/validation datasets and just submit the system outputs on the **unseen** evaluation data.
 
 ---
 
 Q: Can I fine-tune or re-train my models on the unlabeled evaluation data in an unsupervised way?
 
-A: No, you're not allowed to fine-tune or re-train your systems based on any evaluation resources. Please freeze your models/systems only with the training/validation datasets and just submit the system outputs on the **unseen** evalution data.
+A: No, you're not allowed to fine-tune or re-train your systems based on any evaluation resources. Please freeze your models/systems only with the training/validation datasets and just submit the system outputs on the **unseen** evaluation data.
 
 ---
 
@@ -78,7 +78,7 @@ A: No, the human evaluation will be done only for selected systems according to 
 
 Q: Will the automated evaluation results be released also for the submissions which are not selected for the final ranking?
 
-A: Yes, we will release the automated evaluation results for every valid submission.
+A: Yes, we will release the automated evaluation results for every valid submission with anonymized team IDs.
 
 ---
 
