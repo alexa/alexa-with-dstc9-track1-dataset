@@ -64,6 +64,12 @@ A: No, you're not allowed to fine-tune or re-train your systems based on any eva
 
 ---
 
+Q: Can I fine-tune or re-train my models with the knowledge.json or db.json for the evaluation data?
+
+A: No, you're not allowed to fine-tune or re-train your systems based on any evaluation resources. Please freeze your models/systems only with the training/validation datasets and just submit the system outputs on the **unseen** evaluation data.
+
+---
+
 Q: What is the final criterion of team ranking? Will we have rankings for each subtask or only one ranking as a final for all subtasks?
 
 A: The official ranking will be based on **human evaluation** for the **end-to-end** performances. The human evaluation will be done only for selected systems according to automated evaluation scores.
