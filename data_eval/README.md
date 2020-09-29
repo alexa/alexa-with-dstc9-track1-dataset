@@ -28,4 +28,4 @@ Found no errors, output file is valid
 ```
 Any invalid submission will be excluded from the official evaluation.
 
-Once you're ready, please make your submission by completing the **[Submission Form](https://forms.gle/x5kyhxrM3fr4uEcf9)** by 11:59PM UTC-12 (anywhere on Earth), September 28, 2020.
+Once you're ready, please make your submission by completing the ~~[Submission Form]~~ by 11:59PM UTC-12 (anywhere on Earth), September 28, 2020.
