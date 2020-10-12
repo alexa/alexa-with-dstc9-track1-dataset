@@ -10,6 +10,7 @@ Track participants will develop dialogue systems to understand relevant domain k
 **Organizers:** Seokhwan Kim, Mihail Eric, Behnam Hedayatnia, Karthik Gopalakrishnan, Yang Liu, Chao-Wei Huang, Dilek Hakkani-tur
 
 ## News
+* **October 12, 2020** - The ground-truth labels/responses for the evaluation data are released at [data_eval/test/labels.json](data_eval/test/labels.json). 
 * **September 21, 2020** - The evaluation data is released. Please find the details from [data_eval/](data_eval/README.md).
 * **August 18, 2020** - Patched data released with labeling error fixes. **Please update your local branch.**
 
