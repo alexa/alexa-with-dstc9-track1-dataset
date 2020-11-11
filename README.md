@@ -7,7 +7,7 @@ This repository contains the data, scripts and baseline codes for [DSTC9](https:
 This challenge track aims to support frictionless task-oriented conversations, where the dialogue flow does not break when users have requests that are out of the scope of APIs/DB but potentially are already available in external knowledge sources.
 Track participants will develop dialogue systems to understand relevant domain knowledge, and generate system responses with the relevant selected knowledge.
 
-**Organizers:** Seokhwan Kim, Mihail Eric, Behnam Hedayatnia, Karthik Gopalakrishnan, Yang Liu, Chao-Wei Huang, Dilek Hakkani-tur
+**Organizers:** Seokhwan Kim, Mihail Eric, Behnam Hedayatnia, Karthik Gopalakrishnan, Yang Liu, Chao-Wei Huang, Dilek Hakkani-Tur
 
 ## News
 * **November 4, 2020** - The system outputs submitted by the participants are released at [results/](results/).
