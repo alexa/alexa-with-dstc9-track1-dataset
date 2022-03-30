@@ -10,7 +10,7 @@ Track participants will develop dialogue systems to understand relevant domain k
 **Organizers:** Seokhwan Kim, Mihail Eric, Behnam Hedayatnia, Karthik Gopalakrishnan, Yang Liu, Chao-Wei Huang, Dilek Hakkani-Tur
 
 ## News
-* **March 30, 022** - The post-challenge leaderboard is online [here](https://eval.ai/web/challenges/challenge-page/1663/overview).
+* **March 30, 2022** - The post-challenge leaderboard is online [here](https://eval.ai/web/challenges/challenge-page/1663/overview).
 * **January 26, 2021** - The human evaluation scores for each finalist entry are released at [results/](results/).
 * **November 4, 2020** - The system outputs submitted by the participants are released at [results/](results/).
 * **October 19, 2020** - The human evaluation results are now available: [See Results](https://docs.google.com/spreadsheets/d/1THEh9MRPWQCC1v4DH5WTw0Gq8TyV9zncWWUL08drtUY/edit?usp=sharing).
